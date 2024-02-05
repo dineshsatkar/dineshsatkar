@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dineshsatkar
 - 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning clodd computing
-- 💞️ I’m looking to collaborate on cloud projects
+- 🌱 I’m currently learning cloud computing
+- 💞️ I’m looking to collaborate on cloud projects and app development 
 - 📫 How to reach me email @ dineshsatkar7902@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
